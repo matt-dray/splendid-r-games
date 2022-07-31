@@ -7,7 +7,7 @@
 
 This is an [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) of games you can play in [the R language](https://www.r-project.org/), which is (supposed to be) a 'free software environment for statistical computing and graphics'.
 
-Please [submit an issue](https://github.com/matt-dray/awesome-r-games/issues) or [pull request](https://github.com/matt-dray/awesome-r-games/pulls) to add games to this list, or if you're a creator and you want some details changed.
+Please [submit an issue](https://github.com/matt-dray/awesome-r-games/issues) or [pull request](https://github.com/matt-dray/awesome-r-games/pulls) to add games or make adjustments to this list.
 
 Note that:
 
@@ -30,6 +30,7 @@ Note that:
 * CastleOfR ([source](https://github.com/gsimchoni/CastleOfR), [blog](http://giorasimchoni.com/2017/09/10/2017-09-10-you-re-in-a-room-the-castleofr-package/)) by [Giora Simonchi](https://www.giorasimchoni.com)
 * Chess ([blog](https://coolbutuseless.github.io/2020/11/05/a-chess-engine-in-rstats-proof-of-concept-using-stockfish/)) by [Mike Cheng](https://coolbutuseless.github.io/)
 * Gravedigger ([source](https://github.com/pprevos/RGames/blob/master/gravedigger.R), [blog](https://lucidmanager.org/data-science/creepy-computer-games-in-r/)) by [Peter Prevos](https://lucidmanager.org/)
+* Nonograms ([source](https://github.com/coolbutuseless/nonogram), [blog](https://coolbutuseless.github.io/2018/09/26/nonograms-in-r-nonogram-package/) by [Mike Cheng](https://coolbutuseless.github.io/)
 * {OregonTrail} ([source](https://github.com/tslumley/OregonTrail), [blog](https://notstatschat.rbind.io/2020/10/30/you-will-probably-not-be-eaten-by-a-grue/)) by [Thomas Lumley](https://notstatschat.rbind.io/)
 * {r.oguelike} ([source](https://github.com/matt-dray/r.oguelike), [docs](https://matt-dray.github.io/r.oguelike/), [blog](https://www.rostrum.blog/2022/04/25/r.oguelike-dev/)) by [Matt Dray](https://www.matt-dray.com/)
 * {safar6} ([source](https://github.com/matt-dray/safar6), [blog](https://www.rostrum.blog/2021/01/04/safar6/)) by [Matt Dray](https://www.matt-dray.com/)
