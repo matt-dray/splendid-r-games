@@ -20,6 +20,7 @@ Games provided in self-contained R packages are indicated by their names being w
 
 ## R console
 
+* 2048 ([source](https://gist.github.com/coolbutuseless/ffc5eef475f4c514731fb72d3d813a2d), [blog](https://coolbutuseless.github.io/2021/11/14/a-simple-2048-game-engine-in-r/)) by [Mike Cheng](https://coolbutuseless.github.io/)
 * {ActionSquirrel} ([source](https://github.com/matt-dray/ActionSquirrel), [blog](https://www.rostrum.blog/2021/10/03/squirrel/)) by [Matt Dray](https://www.matt-dray.com/)
 * CastleOfR ([source](https://github.com/gsimchoni/CastleOfR), [blog](http://giorasimchoni.com/2017/09/10/2017-09-10-you-re-in-a-room-the-castleofr-package/)) by [Giora Simonchi](https://www.giorasimchoni.com)
 * Gravedigger ([source](https://github.com/pprevos/RGames/blob/master/gravedigger.R), [blog](https://lucidmanager.org/data-science/creepy-computer-games-in-r/)) by [Peter Prevos](https://lucidmanager.org/)
@@ -28,6 +29,7 @@ Games provided in self-contained R packages are indicated by their names being w
 * {safar6} ([source](https://github.com/matt-dray/safar6), [blog](https://www.rostrum.blog/2021/01/04/safar6/)) by [Matt Dray](https://www.matt-dray.com/)
 * The Secret of Landusia ([source](https://github.com/pprevos/RGames/tree/master/adventure), [blog](https://lucidmanager.org/data-science/text-adventure//)) by [Peter Prevos](https://lucidmanager.org/)
 * Tenliner Cave Adventure ([source](https://github.com/pprevos/RGames/tree/master/adventure), [blog](https://lucidmanager.org/data-science/tenliner-cave-adventure/)) by [Peter Prevos](https://lucidmanager.org/)
+* {twenty48} ([source](https://github.com/rossellhayes/twenty48)) by [Alex Rossell Hayes](https://twitter.com/RossellHayes)
 * {wordle} ([source](https://github.com/coolbutuseless/wordle), [blog](https://coolbutuseless.github.io/2022/01/04/wordle-v0.1.5-a-package-for-playing-and-helping-solve-wordle-puzzles/)) by [Mike Cheng](https://coolbutuseless.github.io/)
 
 ## Shiny
