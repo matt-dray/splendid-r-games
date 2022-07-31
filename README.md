@@ -9,7 +9,12 @@ This is an [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awes
 
 Please [submit an issue](https://github.com/matt-dray/awesome-r-games/issues) or [pull request](https://github.com/matt-dray/awesome-r-games/pulls) to add games to this list, or if you're a creator and you want some details changed.
 
-Games provided in self-contained R packages are indicated by their names being wrapped in curly braces, i.e. '{example}'.
+Note that:
+
+* some of these may be proof-of-concept, some may be ports of completed games
+* I've sorted them into three groups for now, though there is some overlap (if in doubt, ask yourself what the primary input method is)
+* I hope to make this list more interesting and interactive in future; for now we're just collecting games and links
+* games provided in self-contained R packages are indicated by their names wrapped in curly braces, i.e. '{example}'
 
 ## Graphics window
 
@@ -23,6 +28,7 @@ Games provided in self-contained R packages are indicated by their names being w
 * 2048 ([source](https://gist.github.com/coolbutuseless/ffc5eef475f4c514731fb72d3d813a2d), [blog](https://coolbutuseless.github.io/2021/11/14/a-simple-2048-game-engine-in-r/)) by [Mike Cheng](https://coolbutuseless.github.io/)
 * {ActionSquirrel} ([source](https://github.com/matt-dray/ActionSquirrel), [blog](https://www.rostrum.blog/2021/10/03/squirrel/)) by [Matt Dray](https://www.matt-dray.com/)
 * CastleOfR ([source](https://github.com/gsimchoni/CastleOfR), [blog](http://giorasimchoni.com/2017/09/10/2017-09-10-you-re-in-a-room-the-castleofr-package/)) by [Giora Simonchi](https://www.giorasimchoni.com)
+* Chess ([blog](https://coolbutuseless.github.io/2020/11/05/a-chess-engine-in-rstats-proof-of-concept-using-stockfish/)) by [Mike Cheng](https://coolbutuseless.github.io/)
 * Gravedigger ([source](https://github.com/pprevos/RGames/blob/master/gravedigger.R), [blog](https://lucidmanager.org/data-science/creepy-computer-games-in-r/)) by [Peter Prevos](https://lucidmanager.org/)
 * {OregonTrail} ([source](https://github.com/tslumley/OregonTrail), [blog](https://notstatschat.rbind.io/2020/10/30/you-will-probably-not-be-eaten-by-a-grue/)) by [Thomas Lumley](https://notstatschat.rbind.io/)
 * {r.oguelike} ([source](https://github.com/matt-dray/r.oguelike), [docs](https://matt-dray.github.io/r.oguelike/), [blog](https://www.rostrum.blog/2022/04/25/r.oguelike-dev/)) by [Matt Dray](https://www.matt-dray.com/)
@@ -31,6 +37,7 @@ Games provided in self-contained R packages are indicated by their names being w
 * Tenliner Cave Adventure ([source](https://github.com/pprevos/RGames/tree/master/adventure), [blog](https://lucidmanager.org/data-science/tenliner-cave-adventure/)) by [Peter Prevos](https://lucidmanager.org/)
 * {twenty48} ([source](https://github.com/rossellhayes/twenty48)) by [Alex Rossell Hayes](https://twitter.com/RossellHayes)
 * {wordle} ([source](https://github.com/coolbutuseless/wordle), [blog](https://coolbutuseless.github.io/2022/01/04/wordle-v0.1.5-a-package-for-playing-and-helping-solve-wordle-puzzles/)) by [Mike Cheng](https://coolbutuseless.github.io/)
+* Zork ([blog](https://coolbutuseless.github.io/2020/11/15/play-zork-in-rstats/)) by [Mike Cheng](https://coolbutuseless.github.io/)
 
 ## Shiny
 
