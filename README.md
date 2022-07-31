@@ -28,6 +28,7 @@ Games provided in self-contained R packages are indicated by their names being w
 * {safar6} ([source](https://github.com/matt-dray/safar6), [blog](https://www.rostrum.blog/2021/01/04/safar6/)) by [Matt Dray](https://www.matt-dray.com/)
 * The Secret of Landusia ([source](https://github.com/pprevos/RGames/tree/master/adventure), [blog](https://lucidmanager.org/data-science/text-adventure//)) by [Peter Prevos](https://lucidmanager.org/)
 * Tenliner Cave Adventure ([source](https://github.com/pprevos/RGames/tree/master/adventure), [blog](https://lucidmanager.org/data-science/tenliner-cave-adventure/)) by [Peter Prevos](https://lucidmanager.org/)
+* {wordle} ([source](https://github.com/coolbutuseless/wordle), [blog](https://coolbutuseless.github.io/2022/01/04/wordle-v0.1.5-a-package-for-playing-and-helping-solve-wordle-puzzles/)) by [Mike Cheng](https://coolbutuseless.github.io/)
 
 ## Shiny
 
@@ -36,3 +37,4 @@ Games provided in self-contained R packages are indicated by their names being w
 * {lightsout} ([source](https://github.com/daattali/lightsout/tree/master/inst/shiny), [app](https://daattali.com/shiny/lightsout/), [blog](https://deanattali.com/blog/shiny-game-lightsout/)) by [Dean Attali](https://deanattali.com/)
 * Pokémon 20 Questions ([source](https://www.github.com/ashbaldry/Pokemon_20Q), [app](https://ashbaldry.shinyapps.io/Pokemon_20Q/), [blog](https://community.rstudio.com/t/shiny-contest-submission-pokemon-20-question-game/25726)) by [Ashley Baldry](https://ashbaldry.github.io/)
 * Shiny Decisions ([source](https://github.com/pedrocoutinhosilva/shiny.decisions), [app](https://sparktuga.shinyapps.io/ShinyDecisions/), [blog](https://appsilon.com/is-it-possible-to-build-a-video-game-in-r-shiny/)) by [Pedro Coutinho Silva](https://www.pedrocsilva.com/)
+* Wordle ([source](https://github.com/wch/shiny-wordle), [app](https://winston.shinyapps.io/wordle/), [video playlist](https://www.youtube.com/playlist?list=PL9HYL-VRX0oQnWIeY_ydYBdU76iQ-tchU)) by [Winston Chang](https://www.rstudio.com/authors/winston-chang/)
