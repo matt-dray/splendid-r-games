@@ -23,6 +23,7 @@ Games provided in self-contained R packages are indicated by their names being w
 * {ActionSquirrel} ([source](https://github.com/matt-dray/ActionSquirrel), [blog](https://www.rostrum.blog/2021/10/03/squirrel/)) by [Matt Dray](https://www.matt-dray.com/)
 * CastleOfR ([source](https://github.com/gsimchoni/CastleOfR), [blog](http://giorasimchoni.com/2017/09/10/2017-09-10-you-re-in-a-room-the-castleofr-package/)) by [Giora Simonchi](https://www.giorasimchoni.com)
 * Gravedigger ([source](https://github.com/pprevos/RGames/blob/master/gravedigger.R), [blog](https://lucidmanager.org/data-science/creepy-computer-games-in-r/)) by [Peter Prevos](https://lucidmanager.org/)
+* {OregonTrail} ([source](https://github.com/tslumley/OregonTrail), [blog](https://notstatschat.rbind.io/2020/10/30/you-will-probably-not-be-eaten-by-a-grue/)) by [Thomas Lumley](https://notstatschat.rbind.io/)
 * {r.oguelike} ([source](https://github.com/matt-dray/r.oguelike), [docs](https://matt-dray.github.io/r.oguelike/), [blog](https://www.rostrum.blog/2022/04/25/r.oguelike-dev/)) by [Matt Dray](https://www.matt-dray.com/)
 * {safar6} ([source](https://github.com/matt-dray/safar6), [blog](https://www.rostrum.blog/2021/01/04/safar6/)) by [Matt Dray](https://www.matt-dray.com/)
 * The Secret of Landusia ([source](https://github.com/pprevos/RGames/tree/master/adventure), [blog](https://lucidmanager.org/data-science/text-adventure//)) by [Peter Prevos](https://lucidmanager.org/)
