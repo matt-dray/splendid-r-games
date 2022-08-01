@@ -42,4 +42,5 @@ Please [submit an issue](https://github.com/matt-dray/awesome-r-games/issues) or
 * {sammleR} ([source](https://gitlab.com/bastistician/sammleR)) by [Sebastien Meyer](http://www.imbe.med.uni-erlangen.de/ma/S.Meyer/)
 * Shiny Decisions ([source](https://github.com/pedrocoutinhosilva/shiny.decisions), [app](https://sparktuga.shinyapps.io/ShinyDecisions/), [blog](https://appsilon.com/is-it-possible-to-build-a-video-game-in-r-shiny/)) by [Pedro Coutinho Silva](https://www.pedrocsilva.com/)
 * Wordle ([source](https://github.com/wch/shiny-wordle), [app](https://winston.shinyapps.io/wordle/), [video playlist](https://www.youtube.com/playlist?list=PL9HYL-VRX0oQnWIeY_ydYBdU76iQ-tchU)) by [Winston Chang](https://www.rstudio.com/authors/winston-chang/)
+* Whack-A-Mole ([source](https://github.com/tomicapretto/whackamole)) by [Tomás Capretto](https://tomicapretto.github.io)
 * Where is the street? ([source](https://github.com/AlbertRapp/street_map_game), [app](https://rappa.shinyapps.io/street_map_game/)) by [Albert Rapp](https://albert-rapp.de/)
