@@ -36,6 +36,7 @@ Please [submit an issue](https://github.com/matt-dray/awesome-r-games/issues) or
 ## Shiny
 
 * Beat the Trend ([source](https://github.com/marcusyoung/beat_the_trend), [app](https://marcus.shinyapps.io/bus_simulator/), [blog](https://community.rstudio.com/t/shiny-contest-submission-educational-bus-company-simulator-game-to-teach-about-elasticities/24067)) by [Marcus Young](www.marcusyoung.co.uk)
+* cityguess ([source](https://github.com/rCarto/geoguess), [app](https://rcarto.shinyapps.io/cityguess/)) by [Timothée Giraud](https://rgeomatic.hypotheses.org/)
 * Hex Memory Game ([source](https://github.com/dreamRs/memory-hex), [app](https://dreamrs.shinyapps.io/memory-hex/), [blog](https://community.rstudio.com/t/shiny-contest-submission-hex-memory-game/25336)) by [Victor Perrier](https://twitter.com/_pvictorr)
 * {lightsout} ([source](https://github.com/daattali/lightsout/tree/master/inst/shiny), [app](https://daattali.com/shiny/lightsout/), [blog](https://deanattali.com/blog/shiny-game-lightsout/)) by [Dean Attali](https://deanattali.com/)
 * Pokémon 20 Questions ([source](https://www.github.com/ashbaldry/Pokemon_20Q), [app](https://ashbaldry.shinyapps.io/Pokemon_20Q/), [blog](https://community.rstudio.com/t/shiny-contest-submission-pokemon-20-question-game/25726)) by [Ashley Baldry](https://ashbaldry.github.io/)
