@@ -7,14 +7,7 @@
 
 This is an [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) of games you can play in [the R language](https://www.r-project.org/), which is (supposed to be) a 'free software environment for statistical computing and graphics'.
 
-Please [submit an issue](https://github.com/matt-dray/awesome-r-games/issues) or [pull request](https://github.com/matt-dray/awesome-r-games/pulls) to add games or make adjustments to this list.
-
-Note that:
-
-* some of these may be proof-of-concept, some may be ports of completed games
-* I've sorted them into three groups for now, though there is some overlap (if in doubt, ask yourself what the primary input method is)
-* I hope to make this list more interesting and interactive in future; for now we're just collecting games and links
-* games provided in self-contained R packages are indicated by their names wrapped in curly braces, i.e. '{example}'
+Please [submit an issue](https://github.com/matt-dray/awesome-r-games/issues) or [pull request](https://github.com/matt-dray/awesome-r-games/pulls) to adjust the list. Add the game alphabetically to the relevant section like `* Game ([source](<link>)) by [Name](<link>)`. Add other links if relevant, like a blog post or live app, and put the game name in {curly braces} (`{}`) if it's an R package.
 
 ## Graphics window
 
