@@ -2,13 +2,13 @@
 
 <!-- badges: start -->
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 <!-- badges: end -->
 
-This is an [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) of games you can play in [the R language](https://www.r-project.org/), which is (supposed to be) a 'free software environment for statistical computing and graphics'.
+This is a list of games you can play in [the R language](https://www.r-project.org/), which is (supposed to be) a 'free software environment for statistical computing and graphics'.
 
 Please [submit an issue](https://github.com/matt-dray/awesome-r-games/issues) or [pull request](https://github.com/matt-dray/awesome-r-games/pulls) to adjust the list. Add the game alphabetically to the relevant section like `* Game ([source](<link>)) by [Name](<link>)`. Add other links if relevant, like a blog post or live app, and put the game name in {curly braces} (`{}`) if it's an R package.
+
+Note: this list was initially referred to as an [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md), but it does not yet fully meet [the requirements](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md).
 
 ## 🤼 Action
 
