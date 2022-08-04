@@ -19,6 +19,7 @@ Please [submit an issue](https://github.com/matt-dray/awesome-r-games/issues) or
 
 * Pacman ([source](https://github.com/coolbutuseless/pacman), [blog](https://coolbutuseless.github.io/2022/07/26/pacman-game-written-in-r-with-nara-and-eventloop/)) by [Mike Cheng](https://coolbutuseless.github.io/)
 * Pong ([source](https://github.com/pprevos/RGames/blob/master/pong.R), [blog](https://lucidmanager.org/data-science/pong/)) by [Peter Prevos](https://lucidmanager.org/)
+* Snake ([source](https://github.com/jeroenjanssens/raylibr/blob/main/demo/snake.R)) by [Jeroen Janssens](https://jeroenjanssens.com/)
 
 ## ♟️ Board games
 
@@ -32,7 +33,7 @@ Please [submit an issue](https://github.com/matt-dray/awesome-r-games/issues) or
 ## 🧠 Logic and memory
 
 * Mastermind ([source](https://github.com/tomaztk/Useless_R_functions/blob/main/functions/MastermindGame.R), [blog](https://tomaztsql.wordpress.com/2022/01/07/little-useless-useful-r-functions-mastermind-board-game-for-r/)) by [Tomaž Kaštrun](https://tomaztsql.wordpress.com/)
-* Hex Memory Game ([source](https://github.com/dreamRs/memory-hex), [app](https://dreamrs.shinyapps.io/memory-hex/), [blog](https://community.rstudio.com/t/shiny-contest-submission-hex-memory-game/25336)) by [Victor Perrier](https://twitter.com/_pvictorr)
+* Hex Memory Game ([source](https://github.com/dreamRs/memory-hex), [app](https://dreamrs.shinyapps.io/memory-hex/), [contest submission](https://community.rstudio.com/t/shiny-contest-submission-hex-memory-game/25336)) by [Victor Perrier](https://twitter.com/_pvictorr)
 
 ## 💾 Multi
 
@@ -48,12 +49,12 @@ Please [submit an issue](https://github.com/matt-dray/awesome-r-games/issues) or
 * 2048 ([source](https://gist.github.com/coolbutuseless/ffc5eef475f4c514731fb72d3d813a2d), [blog](https://coolbutuseless.github.io/2021/11/14/a-simple-2048-game-engine-in-r/)) by [Mike Cheng](https://coolbutuseless.github.io/)
 * {lightsout} ([source](https://github.com/daattali/lightsout/tree/master/inst/shiny), [app](https://daattali.com/shiny/lightsout/), [blog](https://deanattali.com/blog/shiny-game-lightsout/)) by [Dean Attali](https://deanattali.com/)
 * Nonograms ([source](https://github.com/coolbutuseless/nonogram), [blog](https://coolbutuseless.github.io/2018/09/26/nonograms-in-r-nonogram-package/) by [Mike Cheng](https://coolbutuseless.github.io/)
-* Pokémon 20 Questions ([source](https://www.github.com/ashbaldry/Pokemon_20Q), [app](https://ashbaldry.shinyapps.io/Pokemon_20Q/), [blog](https://community.rstudio.com/t/shiny-contest-submission-pokemon-20-question-game/25726)) by [Ashley Baldry](https://ashbaldry.github.io/)
+* Pokémon 20 Questions ([source](https://www.github.com/ashbaldry/Pokemon_20Q), [app](https://ashbaldry.shinyapps.io/Pokemon_20Q/), [contest submission](https://community.rstudio.com/t/shiny-contest-submission-pokemon-20-question-game/25726)) by [Ashley Baldry](https://ashbaldry.github.io/)
 * {twenty48} ([source](https://github.com/rossellhayes/twenty48)) by [Alex Rossell Hayes](https://twitter.com/RossellHayes)
 
 ## 🧫 Simulation
 
-* Beat the Trend ([source](https://github.com/marcusyoung/beat_the_trend), [app](https://marcus.shinyapps.io/bus_simulator/), [blog](https://community.rstudio.com/t/shiny-contest-submission-educational-bus-company-simulator-game-to-teach-about-elasticities/24067)) by [Marcus Young](www.marcusyoung.co.uk)
+* Beat the Trend ([source](https://github.com/marcusyoung/beat_the_trend), [app](https://marcus.shinyapps.io/bus_simulator/), [contest submission](https://community.rstudio.com/t/shiny-contest-submission-educational-bus-company-simulator-game-to-teach-about-elasticities/24067)) by [Marcus Young](www.marcusyoung.co.uk)
 * Shiny Decisions ([source](https://github.com/pedrocoutinhosilva/shiny.decisions), [app](https://sparktuga.shinyapps.io/ShinyDecisions/), [blog](https://appsilon.com/is-it-possible-to-build-a-video-game-in-r-shiny/)) by [Pedro Coutinho Silva](https://www.pedrocsilva.com/)
 
 ## 📖 Text-based
