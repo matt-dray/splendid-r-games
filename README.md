@@ -10,10 +10,6 @@ Please [submit an issue](https://github.com/matt-dray/awesome-r-games/issues) or
 
 Note: this list was initially referred to as an [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md), but it does not yet fully meet [the requirements](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md).
 
-## 💾 Access
-
-* {Rcade} for accessing HTML5 games, [including 2048, Mariohtml5, CustomTetris and more](https://github.com/RLesur/Rcade/blob/master/inst/games/games.yml) ([source](https://github.com/RLesur/Rcade/)) by [Romain Lesur](https://twitter.com/RLesur)
-
 ## 🤼 Action
 
 * {sammleR} ([source](https://gitlab.com/bastistician/sammleR)) by [Sebastien Meyer](http://www.imbe.med.uni-erlangen.de/ma/S.Meyer/)
@@ -33,6 +29,10 @@ Note: this list was initially referred to as an [Awesome List](https://github.co
 
 * cityguess ([source](https://github.com/rCarto/geoguess), [app](https://rcarto.shinyapps.io/cityguess/)) by [Timothée Giraud](https://rgeomatic.hypotheses.org/)
 * Where is the street? ([source](https://github.com/AlbertRapp/street_map_game), [app](https://rappa.shinyapps.io/street_map_game/)) by [Albert Rapp](https://albert-rapp.de/)
+
+## 💾 HTML5
+
+* {Rcade} for accessing HTML5 games, [including 2048, Mariohtml5, CustomTetris and more](https://github.com/RLesur/Rcade/blob/master/inst/games/games.yml) ([source](https://github.com/RLesur/Rcade/)) by [Romain Lesur](https://twitter.com/RLesur)
 
 ## 🧠 Logic and memory
 
