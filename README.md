@@ -10,6 +10,10 @@ Please [submit an issue](https://github.com/matt-dray/awesome-r-games/issues) or
 
 Note: this list was initially referred to as an [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md), but it does not yet fully meet [the requirements](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md).
 
+## 💾 Access
+
+* {Rcade} for accessing HTML5 games, [including 2048, Mariohtml5, CustomTetris and more](https://github.com/RLesur/Rcade/blob/master/inst/games/games.yml) ([source](https://github.com/RLesur/Rcade/)) by [Romain Lesur](https://twitter.com/RLesur)
+
 ## 🤼 Action
 
 * {sammleR} ([source](https://gitlab.com/bastistician/sammleR)) by [Sebastien Meyer](http://www.imbe.med.uni-erlangen.de/ma/S.Meyer/)
@@ -35,9 +39,9 @@ Note: this list was initially referred to as an [Awesome List](https://github.co
 * Mastermind ([source](https://github.com/tomaztk/Useless_R_functions/blob/main/functions/MastermindGame.R), [blog](https://tomaztsql.wordpress.com/2022/01/07/little-useless-useful-r-functions-mastermind-board-game-for-r/)) by [Tomaž Kaštrun](https://tomaztsql.wordpress.com/)
 * Hex Memory Game ([source](https://github.com/dreamRs/memory-hex), [app](https://dreamrs.shinyapps.io/memory-hex/), [contest submission](https://community.rstudio.com/t/shiny-contest-submission-hex-memory-game/25336)) by [Victor Perrier](https://twitter.com/_pvictorr)
 
-## 💾 Multi
+## 🆚 Multiplayer
 
-* {Rcade} for playing HTML5 games, [including 2048, Mariohtml5, CustomTetris and more](https://github.com/RLesur/Rcade/blob/master/inst/games/games.yml) ([source](https://github.com/RLesur/Rcade/blob/master/inst/games/games.yml)) by [Romain Lesur](https://twitter.com/RLesur)
+* Rock paper scissors ([source](https://github.com/ashbaldry/rock-paper-scissors)) by [Ashley Baldry](https://ashbaldry.github.io/)
 
 ## ✏️ Paper and pencil
 
