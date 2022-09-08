@@ -48,6 +48,10 @@ Note: this list was initially referred to as an [Awesome List](https://github.co
 * Hangman ([source](https://github.com/tomaztk/Hangman_game_with_R), [blog](https://tomaztsql.wordpress.com/2019/11/19/hangman-game-with-r/)) by [Tomaž Kaštrun](https://tomaztsql.wordpress.com/)
 * Tic Tac Toe ([source](https://github.com/pprevos/RGames/tree/master/tic-tac-toe), [blog](https://lucidmanager.org/data-science/tic-tac-toe-war-games/)) by [Peter Prevos](https://lucidmanager.org/)
 
+## 💻 Programming
+
+* {Rwarrior} ([source](https://github.com/trickytank/Rwarrior), [blog](https://tankard.id/tag/rwarrior/)) by [Rick Tankard](https://tankard.id)
+
 ## 🧩 Puzzle
 
 * 2048 ([source](https://gist.github.com/coolbutuseless/ffc5eef475f4c514731fb72d3d813a2d), [blog](https://coolbutuseless.github.io/2021/11/14/a-simple-2048-game-engine-in-r/)) by [Mike Cheng](https://coolbutuseless.github.io/)
