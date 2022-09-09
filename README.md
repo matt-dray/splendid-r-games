@@ -50,7 +50,7 @@ Note: this list was initially referred to as an [Awesome List](https://github.co
 
 ## 💻 Programming
 
-* {Rwarrior} ([source](https://github.com/trickytank/Rwarrior), [blog](https://tankard.id/tag/rwarrior/)) by [Rick Tankard](https://tankard.id)
+* {rwarrior} ([source](https://github.com/trickytank/Rwarrior), [blog](https://tankard.id/tag/rwarrior/)) by [Rick Tankard](https://tankard.id)
 
 ## 🧩 Puzzle
 
