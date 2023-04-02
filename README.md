@@ -25,6 +25,10 @@ Note: this list was initially referred to as an [Awesome List](https://github.co
 
 * Chess ([blog](https://coolbutuseless.github.io/2020/11/05/a-chess-engine-in-rstats-proof-of-concept-using-stockfish/)) by [Mike Cheng](https://coolbutuseless.github.io/)
 
+## 🥚 Cyberpets
+
+* {tamRgo} ([source](https://github.com/matt-dray/tamRgo), [docs](https://matt-dray.github.io/tamRgo/), [blog](https://www.rostrum.blog/2022/11/13/tamrgo/  )) by [Matt Dray](https://www.matt-dray.com/)
+
 ## 🗺 Geography
 
 * cityguess ([source](https://github.com/rCarto/geoguess), [app](https://rcarto.shinyapps.io/cityguess/)) by [Timothée Giraud](https://rgeomatic.hypotheses.org/)
@@ -74,7 +78,10 @@ Note: this list was initially referred to as an [Awesome List](https://github.co
 
 * {ActionSquirrel} ([source](https://github.com/matt-dray/ActionSquirrel), [blog](https://www.rostrum.blog/2021/10/03/squirrel/)) by [Matt Dray](https://www.matt-dray.com/)
 * Gravedigger ([source](https://github.com/pprevos/RGames/blob/master/gravedigger.R), [blog](https://lucidmanager.org/data-science/creepy-computer-games-in-r/)) by [Peter Prevos](https://lucidmanager.org/)
+* {oranguru} ([source](https://github.com/ashbaldry/oranguru), [docs](https://ashbaldry.github.io/oranguru/)) by [Ashley Baldry]()
 * {r.oguelike} ([source](https://github.com/matt-dray/r.oguelike), [docs](https://matt-dray.github.io/r.oguelike/), [blog](https://www.rostrum.blog/2022/04/25/r.oguelike-dev/)) by [Matt Dray](https://www.matt-dray.com/)
+* Shiny Monster Maze ([source](https://github.com/ehermo/monster-maze-shiny-mobile), [app](https://ehermo.shinyapps.io/monster-maze-shiny/), [blog](https://www.bitfoam.com/post/2023-01-24-shiny-monster-maze/)) by [Enrique Hermo](https://www.bitfoam.com/)
+* ShinyMons 'PokeFight' ([source](https://github.com/DivadNojnarg/shinyMons), [app](https://dgranjon.shinyapps.io/shinyMons/_w_e1af0e1c/)) by David Granjon
 
 ## 🔠 Words
 
