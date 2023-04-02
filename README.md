@@ -1,4 +1,4 @@
-# awesome-r-games
+# splendid-r-games
 
 <!-- badges: start -->
 
@@ -6,7 +6,7 @@
 
 This is a list of games you can play in [the R language](https://www.r-project.org/), which is (supposed to be) a 'free software environment for statistical computing and graphics'.
 
-Please [submit an issue](https://github.com/matt-dray/awesome-r-games/issues) or [pull request](https://github.com/matt-dray/awesome-r-games/pulls) to adjust the list. Add the game alphabetically to the relevant section like `* Game ([source](<link>)) by [Name](<link>)`. Add other links if relevant, like a blog post or live app, and put the game name in {curly braces} (`{}`) if it's an R package.
+Please [submit an issue](https://github.com/matt-dray/splendid-r-games/issues) or [pull request](https://github.com/matt-dray/splendid-r-games/pulls) to adjust the list. Add the game alphabetically to the relevant section like `* Game ([source](<link>)) by [Name](<link>)`. Add other links if relevant, like a blog post or live app, and put the game name in {curly braces} (`{}`) if it's an R package.
 
 Note: this list was initially referred to as an [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md), but it does not yet fully meet [the requirements](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md).
 
@@ -36,33 +36,24 @@ Note: this list was initially referred to as an [Awesome List](https://github.co
 
 ## 🧠 Logic and memory
 
-* Mastermind ([source](https://github.com/tomaztk/Useless_R_functions/blob/main/functions/MastermindGame.R), [blog](https://tomaztsql.wordpress.com/2022/01/07/little-useless-useful-r-functions-mastermind-board-game-for-r/)) by [Tomaž Kaštrun](https://tomaztsql.wordpress.com/)
 * Hex Memory Game ([source](https://github.com/dreamRs/memory-hex), [app](https://dreamrs.shinyapps.io/memory-hex/), [contest submission](https://community.rstudio.com/t/shiny-contest-submission-hex-memory-game/25336)) by [Victor Perrier](https://twitter.com/_pvictorr)
+* Mastermind ([source](https://github.com/tomaztk/Useless_R_functions/blob/main/functions/MastermindGame.R), [blog](https://tomaztsql.wordpress.com/2022/01/07/little-useless-useful-r-functions-mastermind-board-game-for-r/)) by [Tomaž Kaštrun](https://tomaztsql.wordpress.com/)
 
 ## 🆚 Multiplayer
 
 * Rock paper scissors ([source](https://github.com/ashbaldry/rock-paper-scissors)) by [Ashley Baldry](https://ashbaldry.github.io/)
-* {BoardGames} implements Ultimate Tic Tac Toe, by Derek Qiu
 
 ## ✏️ Paper and pencil
 
 * Hangman ([source](https://github.com/tomaztk/Hangman_game_with_R), [blog](https://tomaztsql.wordpress.com/2019/11/19/hangman-game-with-r/)) by [Tomaž Kaštrun](https://tomaztsql.wordpress.com/)
 * Tic Tac Toe ([source](https://github.com/pprevos/RGames/tree/master/tic-tac-toe), [blog](https://lucidmanager.org/data-science/tic-tac-toe-war-games/)) by [Peter Prevos](https://lucidmanager.org/)
 
-## 💻 Programming
-
-* {betabit} [website](http://betabit.wiki/) by Przemyslaw Biecek, Witold Chodor, Katarzyna Fak and Tomasz Zoltak
-* {rwarrior} ([source](https://github.com/trickytank/Rwarrior), [blog](https://tankard.id/tag/rwarrior/)) by [Rick Tankard](https://tankard.id)
-
 ## 🧩 Puzzle
 
 * 2048 ([source](https://gist.github.com/coolbutuseless/ffc5eef475f4c514731fb72d3d813a2d), [blog](https://coolbutuseless.github.io/2021/11/14/a-simple-2048-game-engine-in-r/)) by [Mike Cheng](https://coolbutuseless.github.io/)
-* {codebreaker} by Roland Krasser
 * {lightsout} ([source](https://github.com/daattali/lightsout/tree/master/inst/shiny), [app](https://daattali.com/shiny/lightsout/), [blog](https://deanattali.com/blog/shiny-game-lightsout/)) by [Dean Attali](https://deanattali.com/)
 * Nonograms ([source](https://github.com/coolbutuseless/nonogram), [blog](https://coolbutuseless.github.io/2018/09/26/nonograms-in-r-nonogram-package/) by [Mike Cheng](https://coolbutuseless.github.io/)
-* {pixelpuzzle}
 * Pokémon 20 Questions ([source](https://www.github.com/ashbaldry/Pokemon_20Q), [app](https://ashbaldry.shinyapps.io/Pokemon_20Q/), [contest submission](https://community.rstudio.com/t/shiny-contest-submission-pokemon-20-question-game/25726)) by [Ashley Baldry](https://ashbaldry.github.io/)
-* {sokoban} by Zhaoliang He, Linsui Deng and Kaiwen Tan
 * {twenty48} ([source](https://github.com/rossellhayes/twenty48)) by [Alex Rossell Hayes](https://twitter.com/RossellHayes)
 
 ## 🧫 Simulation
@@ -82,8 +73,8 @@ Note: this list was initially referred to as an [Awesome List](https://github.co
 ## 🔄 Tile-/turn-based
 
 * {ActionSquirrel} ([source](https://github.com/matt-dray/ActionSquirrel), [blog](https://www.rostrum.blog/2021/10/03/squirrel/)) by [Matt Dray](https://www.matt-dray.com/)
-* {r.oguelike} ([source](https://github.com/matt-dray/r.oguelike), [docs](https://matt-dray.github.io/r.oguelike/), [blog](https://www.rostrum.blog/2022/04/25/r.oguelike-dev/)) by [Matt Dray](https://www.matt-dray.com/)
 * Gravedigger ([source](https://github.com/pprevos/RGames/blob/master/gravedigger.R), [blog](https://lucidmanager.org/data-science/creepy-computer-games-in-r/)) by [Peter Prevos](https://lucidmanager.org/)
+* {r.oguelike} ([source](https://github.com/matt-dray/r.oguelike), [docs](https://matt-dray.github.io/r.oguelike/), [blog](https://www.rostrum.blog/2022/04/25/r.oguelike-dev/)) by [Matt Dray](https://www.matt-dray.com/)
 
 ## 🔠 Words
 
