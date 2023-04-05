@@ -60,7 +60,7 @@ Note: this list was initially referred to as an [Awesome List](https://github.co
 * Pokémon 20 Questions ([source](https://www.github.com/ashbaldry/Pokemon_20Q), [app](https://ashbaldry.shinyapps.io/Pokemon_20Q/), [contest submission](https://community.rstudio.com/t/shiny-contest-submission-pokemon-20-question-game/25726)) by [Ashley Baldry](https://ashbaldry.github.io/)
 * {twenty48} ([source](https://github.com/rossellhayes/twenty48)) by [Alex Rossell Hayes](https://twitter.com/RossellHayes)
 
-## Ports
+# ⛴ Ports
 
 * Another World by [Mike Cheng](https://coolbutuseless.github.io/) ([source](https://github.com/coolbutuseless/anotherworld), [blog](https://coolbutuseless.github.io/2022/07/29/anotherworld-game-written-playable-in-r-with-nara-and-eventloop/), [conference video](https://www.youtube.com/watch?v=LPotWAJnE_s))
 
@@ -84,6 +84,7 @@ Note: this list was initially referred to as an [Awesome List](https://github.co
 * Gravedigger ([source](https://github.com/pprevos/RGames/blob/master/gravedigger.R), [blog](https://lucidmanager.org/data-science/creepy-computer-games-in-r/)) by [Peter Prevos](https://lucidmanager.org/)
 * {oranguru} ([source](https://github.com/ashbaldry/oranguru), [docs](https://ashbaldry.github.io/oranguru/)) by [Ashley Baldry](https://ashbaldry.github.io/)
 * {r.oguelike} ([source](https://github.com/matt-dray/r.oguelike), [docs](https://matt-dray.github.io/r.oguelike/), [blog](https://www.rostrum.blog/2022/04/25/r.oguelike-dev/)) by [Matt Dray](https://www.matt-dray.com/)
+* Shark Attack: Clean the Oceans by [Marcin Dubel](https://github.com/mdubel) ([source](https://github.com/mdubel/shark-attack), [app](https://mdubel.shinyapps.io/shark-attack/), [contest submission](https://community.rstudio.com/t/shark-attack-clean-the-ocean-shiny-contest-submission/104695))
 * Shiny Monster Maze ([source](https://github.com/ehermo/monster-maze-shiny-mobile), [app](https://ehermo.shinyapps.io/monster-maze-shiny/), [blog](https://www.bitfoam.com/post/2023-01-24-shiny-monster-maze/)) by [Enrique Hermo](https://www.bitfoam.com/)
 * ShinyMons 'PokeFight' ([source](https://github.com/DivadNojnarg/shinyMons), [app](https://dgranjon.shinyapps.io/shinyMons/_w_e1af0e1c/)) by David Granjon
 
