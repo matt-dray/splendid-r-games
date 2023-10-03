@@ -8,8 +8,6 @@ This is a list of games you can play in [the R language](https://www.r-project.o
 
 Please [submit an issue](https://github.com/matt-dray/splendid-r-games/issues) or [pull request](https://github.com/matt-dray/splendid-r-games/pulls) to adjust the list. Add the game alphabetically to the relevant section like `* Game ([source](<link>)) by [Name](<link>)`. Add other links if relevant, like a blog post or live app, and put the game name in {curly braces} (`{}`) if it's an R package.
 
-Note: this list was initially referred to as an [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md), but it does not yet fully meet [the requirements](https://github.com/sindresorhus/awesome/blob/main/pull_request_template.md).
-
 ## 🤼 Action
 
 * {sammleR} ([source](https://gitlab.com/bastistician/sammleR)) by [Sebastien Meyer](http://www.imbe.med.uni-erlangen.de/ma/S.Meyer/)
@@ -54,6 +52,7 @@ Note: this list was initially referred to as an [Awesome List](https://github.co
 
 ## 🧩 Puzzle
 
+* 1000 levels of Sokoban ([source](https://github.com/kcf-jackson/webr-animate/tree/jsonlite/examples/samples/sokoban), [app](https://webr-animate.netlify.app/?game=sokoban)) by [Jackson Kwok](https://github.com/kcf-jackson)
 * 2048 ([source](https://gist.github.com/coolbutuseless/ffc5eef475f4c514731fb72d3d813a2d), [blog](https://coolbutuseless.github.io/2021/11/14/a-simple-2048-game-engine-in-r/)) by [Mike Cheng](https://coolbutuseless.github.io/)
 * {lightsout} ([source](https://github.com/daattali/lightsout/tree/master/inst/shiny), [app](https://daattali.com/shiny/lightsout/), [blog](https://deanattali.com/blog/shiny-game-lightsout/)) by [Dean Attali](https://deanattali.com/)
 * Nonograms ([source](https://github.com/coolbutuseless/nonogram), [blog](https://coolbutuseless.github.io/2018/09/26/nonograms-in-r-nonogram-package/)) by [Mike Cheng](https://coolbutuseless.github.io/)
