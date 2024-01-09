@@ -23,6 +23,9 @@ Please [submit an issue](https://github.com/matt-dray/splendid-r-games/issues) o
 
 * Chess ([blog](https://coolbutuseless.github.io/2020/11/05/a-chess-engine-in-rstats-proof-of-concept-using-stockfish/)) by [Mike Cheng](https://coolbutuseless.github.io/)
 
+## 🃏 Card games
+* Blackjack  ([source](https://github.com/mweylandt/gameRoom), [blog](https://www.maxweylandt.com/blogs/gameroom)) by [Max Weylandt](https://www.maxweylandt.com/)
+
 ## 🥚 Cyberpets
 
 * {tamRgo} ([source](https://github.com/matt-dray/tamRgo), [docs](https://matt-dray.github.io/tamRgo/), [blog](https://www.rostrum.blog/2022/11/13/tamrgo/  )) by [Matt Dray](https://www.matt-dray.com/)
