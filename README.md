@@ -24,11 +24,11 @@ Please [submit an issue](https://github.com/matt-dray/splendid-r-games/issues) o
 * Chess ([blog](https://coolbutuseless.github.io/2020/11/05/a-chess-engine-in-rstats-proof-of-concept-using-stockfish/)) by [Mike Cheng](https://coolbutuseless.github.io/)
 
 ## 🃏 Card games
-* Blackjack  ([source](https://github.com/mweylandt/gameRoom), [blog](https://www.maxweylandt.com/blogs/gameroom)) by [Max Weylandt](https://www.maxweylandt.com/)
+* Blackjack ([source](https://github.com/mweylandt/gameRoom), [blog](https://www.maxweylandt.com/blogs/gameroom)) by [Max Weylandt](https://www.maxweylandt.com/)
 
 ## 🥚 Cyberpets
 
-* {tamRgo} ([source](https://github.com/matt-dray/tamRgo), [docs](https://matt-dray.github.io/tamRgo/), [blog](https://www.rostrum.blog/2022/11/13/tamrgo/  )) by [Matt Dray](https://www.matt-dray.com/)
+* {tamRgo} ([source](https://github.com/matt-dray/tamRgo), [docs](https://matt-dray.github.io/tamRgo/), [blog](https://www.rostrum.blog/2022/11/13/tamrgo/)) by [Matt Dray](https://www.matt-dray.com/)
 
 ## 🗺 Geography
 
@@ -53,6 +53,10 @@ Please [submit an issue](https://github.com/matt-dray/splendid-r-games/issues) o
 * Hangman ([source](https://github.com/tomaztk/Hangman_game_with_R), [blog](https://tomaztsql.wordpress.com/2019/11/19/hangman-game-with-r/)) by [Tomaž Kaštrun](https://tomaztsql.wordpress.com/)
 * Tic Tac Toe ([source](https://github.com/pprevos/RGames/tree/master/tic-tac-toe), [blog](https://lucidmanager.org/data-science/tic-tac-toe-war-games/)) by [Peter Prevos](https://lucidmanager.org/)
 
+## ⛴ Ports
+
+* Another World ([source](https://github.com/coolbutuseless/anotherworld), [blog](https://coolbutuseless.github.io/2022/07/29/anotherworld-game-written-playable-in-r-with-nara-and-eventloop/), [conference video](https://www.youtube.com/watch?v=LPotWAJnE_s)) by [Mike Cheng](https://coolbutuseless.github.io/) 
+
 ## 🧩 Puzzle
 
 * 1000 levels of Sokoban ([source](https://github.com/kcf-jackson/webr-animate/tree/jsonlite/examples/samples/sokoban), [app](https://webr-animate.netlify.app/?game=sokoban)) by [Jackson Kwok](https://github.com/kcf-jackson)
@@ -60,11 +64,8 @@ Please [submit an issue](https://github.com/matt-dray/splendid-r-games/issues) o
 * {lightsout} ([source](https://github.com/daattali/lightsout/tree/master/inst/shiny), [app](https://daattali.com/shiny/lightsout/), [blog](https://deanattali.com/blog/shiny-game-lightsout/)) by [Dean Attali](https://deanattali.com/)
 * Nonograms ([source](https://github.com/coolbutuseless/nonogram), [blog](https://coolbutuseless.github.io/2018/09/26/nonograms-in-r-nonogram-package/)) by [Mike Cheng](https://coolbutuseless.github.io/)
 * Pokémon 20 Questions ([source](https://www.github.com/ashbaldry/Pokemon_20Q), [app](https://ashbaldry.shinyapps.io/Pokemon_20Q/), [contest submission](https://community.rstudio.com/t/shiny-contest-submission-pokemon-20-question-game/25726)) by [Ashley Baldry](https://ashbaldry.github.io/)
-* {twenty48} ([source](https://github.com/rossellhayes/twenty48)) by [Alex Rossell Hayes](https://twitter.com/RossellHayes)
-
-# ⛴ Ports
-
-* Another World by [Mike Cheng](https://coolbutuseless.github.io/) ([source](https://github.com/coolbutuseless/anotherworld), [blog](https://coolbutuseless.github.io/2022/07/29/anotherworld-game-written-playable-in-r-with-nara-and-eventloop/), [conference video](https://www.youtube.com/watch?v=LPotWAJnE_s))
+* {sokoban} ([CRAN](https://CRAN.R-project.org/package=sokoban)) by Zhaoliang He, Linsui Deng and Kaiwen Tan
+* {twenty48} ([CRAN](https://CRAN.R-project.org/package=twenty48), [source](https://github.com/rossellhayes/twenty48)) by [Alex Rossell Hayes](https://twitter.com/RossellHayes)
 
 ## 🧫 Simulation
 
