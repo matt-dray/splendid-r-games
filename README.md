@@ -70,6 +70,7 @@ Please [submit an issue](https://github.com/matt-dray/splendid-r-games/issues) o
 ## 🧫 Simulation
 
 * Beat the Trend ([source](https://github.com/marcusyoung/beat_the_trend), [app](https://marcus.shinyapps.io/bus_simulator/), [contest submission](https://community.rstudio.com/t/shiny-contest-submission-educational-bus-company-simulator-game-to-teach-about-elasticities/24067)) by [Marcus Young](www.marcusyoung.co.uk)
+* {livelycells} ([source](https://github.com/vincentott/livelycells), [app](https://vincentott.shinyapps.io/livelycells/)) by [Vincent Ott](https://github.com/vincentott)
 * Shiny Decisions ([source](https://github.com/pedrocoutinhosilva/shiny.decisions), [app](https://sparktuga.shinyapps.io/ShinyDecisions/), [blog](https://appsilon.com/is-it-possible-to-build-a-video-game-in-r-shiny/)) by [Pedro Coutinho Silva](https://www.pedrocsilva.com/)
 
 ## 📖 Text-based
