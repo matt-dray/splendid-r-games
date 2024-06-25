@@ -10,6 +10,9 @@ Please [submit an issue](https://github.com/matt-dray/splendid-r-games/issues) o
 
 ## 🤼 Action
 
+* Cactus Purge ([source](https://github.com/weshinsley/cactus.purge)) by [Wes Hinsley](https://github.com/weshinsley) - Surreal multi-chapter action adventure, including...
+  * Cactz (blitz but with cacti)
+  * Cactuski (ski-ing but with lasers and bosses and a cactus)
 * {sammleR} ([source](https://gitlab.com/bastistician/sammleR)) by [Sebastien Meyer](http://www.imbe.med.uni-erlangen.de/ma/S.Meyer/)
 * Whack-A-Mole ([source](https://github.com/tomicapretto/whackamole)) by [Tomás Capretto](https://tomicapretto.github.io)
 
